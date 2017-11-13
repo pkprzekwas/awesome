@@ -5,3 +5,4 @@ Place to store interesting stuff
 - [Monaco font](https://github.com/cstrap/monaco-font)
 - [pytest](https://media.readthedocs.org/pdf/pytest/3.0.3/pytest.pdf)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Makefile for Python](http://blog.byronjsmith.com/makefile-shortcuts.html)
