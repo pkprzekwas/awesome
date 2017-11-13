@@ -3,3 +3,4 @@ Place to store interesting stuff
 
 - [Vagrant - setting up provisioning shell](https://www.sitepoint.com/vagrantfile-explained-setting-provisioning-shell/)
 - [Monaco font](https://github.com/cstrap/monaco-font)
+- [pytest](https://media.readthedocs.org/pdf/pytest/3.0.3/pytest.pdf)
