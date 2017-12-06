@@ -8,7 +8,7 @@ Place to store interesting stuff
 #### Machine learning
 
 ###### Deep learning
-- [book by Michael Nielsen](http://neuralnetworksanddeeplearning.com/) [git repo](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [book by Michael Nielsen](http://neuralnetworksanddeeplearning.com/) [(git repository)](https://github.com/mnielsen/neural-networks-and-deep-learning)
 - [deepleagningbook](http://www.deeplearningbook.org/)
 - [awesome youtube playlist on deep learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [convolutional neural networks](https://www.youtube.com/watch?v=FmpDIaiMIeA)
