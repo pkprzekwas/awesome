@@ -4,6 +4,8 @@ Place to store interesting stuff
 #### Python
 - [pytest](https://media.readthedocs.org/pdf/pytest/3.0.3/pytest.pdf)
 - [Makefile for Python](http://blog.byronjsmith.com/makefile-shortcuts.html)
+###### Django
+- [User model extension](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
 
 #### Machine learning
 
