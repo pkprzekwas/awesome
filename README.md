@@ -18,7 +18,7 @@ Place to store interesting stuff
 - [Collaborative Filtering](https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html)
 
 ###### Image recognition
-- [Installing OpenCV](http://carlosdeoliveira.net/en/general/install-opencv-3-3-0-for-linux-mint-18-2ubuntu-for-deep-learning/)
+- [Installing OpenCV](https://www.learnopencv.com/install-opencv3-on-ubuntu/)
 - [Emotion recognition with Python](http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/)
 
 #### Devops:
