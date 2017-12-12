@@ -29,4 +29,4 @@ Place to store interesting stuff
 #### Others
 - [Monaco font](https://github.com/cstrap/monaco-font)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+- [Pointer to pointers in C](https://www.youtube.com/watch?v=d3kd5KbGB48)
