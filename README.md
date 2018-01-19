@@ -1,6 +1,9 @@
 # Helpers of all kind
 Place to store interesting stuff
 
+#### Books
+- [goalkicker](http://goalkicker.com/)
+
 #### Python
 - [pytest](https://media.readthedocs.org/pdf/pytest/3.0.3/pytest.pdf)
 - [Makefile for Python](http://blog.byronjsmith.com/makefile-shortcuts.html)
