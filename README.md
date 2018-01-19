@@ -10,7 +10,7 @@ Place to store interesting stuff
 #### Big data
 
 ###### Spark
--[PySpark Cheat Sheet](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
+- [PySpark Cheat Sheet](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
 
 #### Machine learning
 
