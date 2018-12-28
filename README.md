@@ -5,6 +5,7 @@ Place to store interesting stuff
 - [Framework comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 - [Bootstrap docs](http://bootstrap-themes.github.io/dashboard/docs/)
 - [React boilerplate](https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f)
+- [Frontend trends for 2019](https://github.com/helloroman/frontend-roadmap-2019)
 
 #### Books
 - [goalkicker](http://goalkicker.com/)
