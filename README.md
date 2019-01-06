@@ -1,6 +1,9 @@
 # Helpers of all kind
 Place to store interesting stuff
 
+#### Architecture
+- [RabbitMQ](https://web.archive.org/web/20160323134044/http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/)
+
 #### JS / CSS / HTML
 - [Framework comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 - [Bootstrap docs](http://bootstrap-themes.github.io/dashboard/docs/)
