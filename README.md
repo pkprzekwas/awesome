@@ -19,6 +19,9 @@ Place to store interesting stuff
 ###### Django
 - [User model extension](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
 
+#### Golang
+- [Project structure](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+
 #### Big data
 
 ###### Spark
