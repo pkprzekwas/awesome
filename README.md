@@ -49,6 +49,8 @@ Place to store interesting stuff
 #### Devops:
 - [Vagrant - setting up provisioning shell](https://www.sitepoint.com/vagrantfile-explained-setting-provisioning-shell/)
 - [Postgres internals](http://www.interdb.jp/pg/index.html)
+- [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
+
 #### Others
 - [Monaco font](https://github.com/cstrap/monaco-font)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
