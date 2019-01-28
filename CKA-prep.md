@@ -1,4 +1,4 @@
-### Resources (shared on k8s slack channel by julienbisconti)
+### Resources (shared on k8s slack by julienbisconti)
 
 #### Kubernetes cluster
 
