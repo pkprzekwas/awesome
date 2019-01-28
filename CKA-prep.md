@@ -56,3 +56,6 @@ k describe po -n production [TAB] # will list the pods in the namespace "product
 ```
 
 I hope it helps.
+
+### Different resources
+- https://github.com/walidshaari/Kubernetes-Certified-Administrator
